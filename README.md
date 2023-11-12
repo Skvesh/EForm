@@ -25,7 +25,8 @@ To install and run the Emergency Form Filler app, follow these steps:
 4. Connect your mobile device or start an emulator.
 5. Start the Metro server: `npx react-native start`
 6. Build and run the app on your device/emulator: `npx react-native run-android` (for Android) or `npx react-native run-ios` (for iOS)
-    > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Usage
 
